@@ -32,17 +32,17 @@
         "gte": 1677
       },
       "_comment_expected_dependencies_number": "Optional. Expected number of dependencies with comparison operator. Operators: gt (>), gte (>=), lt (<), lte (<=), eq (==). If not provided, this check will not be performed.",
-      "direct_dependencies_names_list": {
+      "direct_dependencies_names_list_group_id": {
         "contains": [
-          "create-slidev-theme-52.12.0.tgz",
-          "create-slidev-52.12.0.tgz",
-          "@slidev/parser-52.12.0.tgz",
-          "slidev-demo-0.0.0.tgz",
-          "@slidev/theme-seriph-0.25.0.tgz",
-          "@slidev/docs-52.12.0.tgz",
-          "slidev-52.12.0.tgz",
-          "@slidev/theme-default-0.25.0.tgz",
-          "@slidev/types-52.12.0.tgz"
+          "create-slidev-theme",
+          "create-slidev",
+          "@slidev/parser",
+          "slidev-demo",
+          "@slidev/theme-seriph",
+          "@slidev/docs",
+          "slidev",
+          "@slidev/theme-default",
+          "@slidev/types"
         ]
       },
       "validate_agent_versions": false,
